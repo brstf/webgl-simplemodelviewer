@@ -60,7 +60,7 @@ body, html {
 
 #optionsMenu a{
     /* The background sprite:*/
-    background:url('img/navigation.png') no-repeat;
+    background:url('./img/navigation.png') no-repeat;
     
     height:39px;
     width:38px;
